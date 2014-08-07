@@ -21,6 +21,21 @@
 		632E52B8199412C600686E28 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 632E529A199412C600686E28 /* UIKit.framework */; };
 		632E52C0199412C600686E28 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 632E52BE199412C600686E28 /* InfoPlist.strings */; };
 		632E52C2199412C600686E28 /* TMDPhotoAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 632E52C1199412C600686E28 /* TMDPhotoAppTests.m */; };
+		632E52DB199423C500686E28 /* eyes_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52CC199423C500686E28 /* eyes_1.jpg */; };
+		632E52DC199423C500686E28 /* eyes_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52CD199423C500686E28 /* eyes_2.jpg */; };
+		632E52DD199423C500686E28 /* eyes_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52CE199423C500686E28 /* eyes_3.jpg */; };
+		632E52DE199423C500686E28 /* eyes_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52CF199423C500686E28 /* eyes_4.jpg */; };
+		632E52DF199423C500686E28 /* eyes_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D0199423C500686E28 /* eyes_5.jpg */; };
+		632E52E0199423C500686E28 /* mouth_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D1199423C500686E28 /* mouth_1.jpg */; };
+		632E52E1199423C500686E28 /* mouth_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D2199423C500686E28 /* mouth_2.jpg */; };
+		632E52E2199423C500686E28 /* mouth_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D3199423C500686E28 /* mouth_3.jpg */; };
+		632E52E3199423C500686E28 /* mouth_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D4199423C500686E28 /* mouth_4.jpg */; };
+		632E52E4199423C500686E28 /* mouth_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D5199423C500686E28 /* mouth_5.jpg */; };
+		632E52E5199423C500686E28 /* nose_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D6199423C500686E28 /* nose_1.jpg */; };
+		632E52E6199423C500686E28 /* nose_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D7199423C500686E28 /* nose_2.jpg */; };
+		632E52E7199423C500686E28 /* nose_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D8199423C500686E28 /* nose_3.jpg */; };
+		632E52E8199423C500686E28 /* nose_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52D9199423C500686E28 /* nose_4.jpg */; };
+		632E52E9199423C500686E28 /* nose_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632E52DA199423C500686E28 /* nose_5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +68,21 @@
 		632E52BD199412C600686E28 /* TMDPhotoAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TMDPhotoAppTests-Info.plist"; sourceTree = "<group>"; };
 		632E52BF199412C600686E28 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		632E52C1199412C600686E28 /* TMDPhotoAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TMDPhotoAppTests.m; sourceTree = "<group>"; };
+		632E52CC199423C500686E28 /* eyes_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eyes_1.jpg; path = Images/eyes_1.jpg; sourceTree = "<group>"; };
+		632E52CD199423C500686E28 /* eyes_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eyes_2.jpg; path = Images/eyes_2.jpg; sourceTree = "<group>"; };
+		632E52CE199423C500686E28 /* eyes_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eyes_3.jpg; path = Images/eyes_3.jpg; sourceTree = "<group>"; };
+		632E52CF199423C500686E28 /* eyes_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eyes_4.jpg; path = Images/eyes_4.jpg; sourceTree = "<group>"; };
+		632E52D0199423C500686E28 /* eyes_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eyes_5.jpg; path = Images/eyes_5.jpg; sourceTree = "<group>"; };
+		632E52D1199423C500686E28 /* mouth_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mouth_1.jpg; path = Images/mouth_1.jpg; sourceTree = "<group>"; };
+		632E52D2199423C500686E28 /* mouth_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mouth_2.jpg; path = Images/mouth_2.jpg; sourceTree = "<group>"; };
+		632E52D3199423C500686E28 /* mouth_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mouth_3.jpg; path = Images/mouth_3.jpg; sourceTree = "<group>"; };
+		632E52D4199423C500686E28 /* mouth_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mouth_4.jpg; path = Images/mouth_4.jpg; sourceTree = "<group>"; };
+		632E52D5199423C500686E28 /* mouth_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mouth_5.jpg; path = Images/mouth_5.jpg; sourceTree = "<group>"; };
+		632E52D6199423C500686E28 /* nose_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nose_1.jpg; path = Images/nose_1.jpg; sourceTree = "<group>"; };
+		632E52D7199423C500686E28 /* nose_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nose_2.jpg; path = Images/nose_2.jpg; sourceTree = "<group>"; };
+		632E52D8199423C500686E28 /* nose_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nose_3.jpg; path = Images/nose_3.jpg; sourceTree = "<group>"; };
+		632E52D9199423C500686E28 /* nose_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nose_4.jpg; path = Images/nose_4.jpg; sourceTree = "<group>"; };
+		632E52DA199423C500686E28 /* nose_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nose_5.jpg; path = Images/nose_5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +142,7 @@
 		632E529C199412C600686E28 /* TMDPhotoApp */ = {
 			isa = PBXGroup;
 			children = (
+				632E52CB199423AB00686E28 /* Images */,
 				632E52A5199412C600686E28 /* TMDAppDelegate.h */,
 				632E52A6199412C600686E28 /* TMDAppDelegate.m */,
 				632E52A8199412C600686E28 /* Main.storyboard */,
@@ -150,6 +181,28 @@
 				632E52BE199412C600686E28 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		632E52CB199423AB00686E28 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				632E52CC199423C500686E28 /* eyes_1.jpg */,
+				632E52CD199423C500686E28 /* eyes_2.jpg */,
+				632E52CE199423C500686E28 /* eyes_3.jpg */,
+				632E52CF199423C500686E28 /* eyes_4.jpg */,
+				632E52D0199423C500686E28 /* eyes_5.jpg */,
+				632E52D1199423C500686E28 /* mouth_1.jpg */,
+				632E52D2199423C500686E28 /* mouth_2.jpg */,
+				632E52D3199423C500686E28 /* mouth_3.jpg */,
+				632E52D4199423C500686E28 /* mouth_4.jpg */,
+				632E52D5199423C500686E28 /* mouth_5.jpg */,
+				632E52D6199423C500686E28 /* nose_1.jpg */,
+				632E52D7199423C500686E28 /* nose_2.jpg */,
+				632E52D8199423C500686E28 /* nose_3.jpg */,
+				632E52D9199423C500686E28 /* nose_4.jpg */,
+				632E52DA199423C500686E28 /* nose_5.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +282,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				632E52E7199423C500686E28 /* nose_3.jpg in Resources */,
+				632E52E2199423C500686E28 /* mouth_3.jpg in Resources */,
+				632E52E6199423C500686E28 /* nose_2.jpg in Resources */,
 				632E52AF199412C600686E28 /* Images.xcassets in Resources */,
+				632E52E9199423C500686E28 /* nose_5.jpg in Resources */,
+				632E52DC199423C500686E28 /* eyes_2.jpg in Resources */,
 				632E52A1199412C600686E28 /* InfoPlist.strings in Resources */,
+				632E52DF199423C500686E28 /* eyes_5.jpg in Resources */,
+				632E52E0199423C500686E28 /* mouth_1.jpg in Resources */,
 				632E52AA199412C600686E28 /* Main.storyboard in Resources */,
+				632E52E4199423C500686E28 /* mouth_5.jpg in Resources */,
+				632E52E5199423C500686E28 /* nose_1.jpg in Resources */,
+				632E52DB199423C500686E28 /* eyes_1.jpg in Resources */,
+				632E52DD199423C500686E28 /* eyes_3.jpg in Resources */,
+				632E52E1199423C500686E28 /* mouth_2.jpg in Resources */,
+				632E52E3199423C500686E28 /* mouth_4.jpg in Resources */,
+				632E52DE199423C500686E28 /* eyes_4.jpg in Resources */,
+				632E52E8199423C500686E28 /* nose_4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

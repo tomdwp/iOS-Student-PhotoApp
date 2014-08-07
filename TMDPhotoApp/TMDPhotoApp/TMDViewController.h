@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TMDViewController : UIViewController
+@interface TMDViewController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
+
+
+@property (strong, nonatomic) IBOutlet UICollectionView *myCollectionView;
+@property (weak, nonatomic) IBOutlet UICollectionViewFlowLayout *flowLayoutForMyCollectionView;
 
 @end

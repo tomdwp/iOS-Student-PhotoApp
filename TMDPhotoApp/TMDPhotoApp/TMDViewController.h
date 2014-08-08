@@ -7,6 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TMDPhotoImageCollection.h"
+#import "TMDPhotoImage.h"
+#import "TMDCustomCollectionViewCell.h"
+#import "TMDCustomCollectionViewFlowLayout.h"
 
 @interface TMDViewController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
 

@@ -97,4 +97,16 @@
     return cell;
 }
 
+#pragma mark - UICollectionViewDelegateFlow methods
+
+-(CGSize)collectionView:(UICollectionView *)collectionView
+                 layout:(UICollectionViewLayout *)collectionViewLayout
+referenceSizeForHeaderInSection:(NSInteger)section
+{
+    
+    return CGSizeMake(200, 200);
+}
+
+
+
 @end
